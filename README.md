@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Witold-Moll
-- 👀 I’m interested in ...
+- 👀 I’m interested in eliminating errors in ERPnext.
 - 🌱 I’m currently learning to use and administrate ERPnext.
-- 💞️ I’m looking to collaborate on developing ERPnext.
+- 💞️ I’m looking to collaborate on improving ERPnext.
 - 📫 How to reach me witold.moll@gmx.de
 
 <!---
